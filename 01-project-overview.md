@@ -106,10 +106,10 @@
 
 ### 5.2. 참고 문서
 
-- [**기능 명세서**](03_feature_specification.md) 
-- [**아키텍처 설계**](04_architecture.md) 
-- [**DB 설계**](05_database_design.md) 
-- [**API 설계**](06_api_design.md) 
-- [**향후 업데이트 계획**](07_roadmap.md) 
-- [**식품안전법**](08_food_safety_law.md) 
+- [**기능 명세서**](03-feature-specification.md) 
+- [**아키텍처 설계**](04-architecture.md) 
+- [**DB 설계**](05-database-design.md) 
+- [**API 설계**](06-api-design.md) 
+- [**향후 업데이트 계획**](07-roadmap.md) 
+- [**식품안전법**](08-food-safety-law.md) 
 
